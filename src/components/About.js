@@ -11,7 +11,7 @@ export default function About() {
   return (
     <Container>
       <Left>
-        <Image src={bg} />
+        <Image src="https://plus.unsplash.com/premium_photo-1661274078120-aa76453212bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGd5bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" />
       </Left>
       <Right>
         <WithBarTitle title="About Our Gym" />
